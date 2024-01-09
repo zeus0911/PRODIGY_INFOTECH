@@ -1,4 +1,4 @@
-# Prodigy Infotech Internship - Project Readme
+# Prodigy Infotech Internship 
 
 
 This readme file provides a comprehensive overview of the projects completed during the internship at Prodigy Infotech. Each project focused on different aspects of data science and machine learning. Below, you will find details about each task, the approach taken, and the directory structure for easy navigation.
